@@ -1,5 +1,4 @@
-COMP 3370 Assignment 2 Sample programs
-======================================
+
 
 Sample programs and data
 ------------------------
